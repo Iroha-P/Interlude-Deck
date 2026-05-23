@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # Interlude Deck
 
@@ -9,7 +9,10 @@
 It appears while your AI agent is working, helps you finish a few lightweight cards, unlocks a timed reward, and disappears the moment Codex needs you back.
 <br><br>
 
-<a href="https://github.com/Iroha-P/Shanka">
+<a href="README.md"><strong>English</strong></a> | <a href="README.zh-CN.md">简体中文</a>
+<br><br>
+
+<a href="https://github.com/Iroha-P/Interlude-Deck">
   <img src="https://img.shields.io/badge/status-MVP-FF9500?style=flat-square" alt="MVP">
 </a>
 <a href="LICENSE">
@@ -141,8 +144,8 @@ Browser + Codex foreground
 ### Option 1: Quick Start
 
 ```powershell
-git clone https://github.com/Iroha-P/Shanka.git
-cd Shanka
+git clone https://github.com/Iroha-P/Interlude-Deck.git
+cd Interlude-Deck
 npm install
 python -m pip install -r requirements.txt
 ```
@@ -239,7 +242,7 @@ POST /detector/status
 ## Project Structure
 
 ```text
-Shanka/
+Interlude-Deck/
 ├─ data/
 │  ├─ vocabulary.json              # Vocabulary card source
 │  ├─ tech_cards.json              # Technical card source
@@ -311,7 +314,7 @@ Copy this prompt into your coding agent to generate a structured issue:
 <details>
 <summary>Click to expand</summary>
 
-I'm having an issue with Interlude Deck (https://github.com/Iroha-P/Shanka).
+I'm having an issue with Interlude Deck (https://github.com/Iroha-P/Interlude-Deck).
 
 Please help me file a GitHub issue. Do the following:
 
@@ -332,6 +335,6 @@ Please help me file a GitHub issue. Do the following:
    - Body sections: **Environment**, **Description**, **Steps to Reproduce**, **Expected vs Actual Behavior**
    - Add label `bug` if applicable
 
-Repository: Iroha-P/Shanka
+Repository: Iroha-P/Interlude-Deck
 
 </details>
