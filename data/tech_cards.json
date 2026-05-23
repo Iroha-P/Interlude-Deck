@@ -1,0 +1,32 @@
+[
+  {
+    "word": "debounce",
+    "phonetic": "frontend pattern",
+    "meaning": "防抖：连续触发时只在安静一段时间后执行一次",
+    "example": "Use debounce for search input so requests wait until typing pauses."
+  },
+  {
+    "word": "idempotent",
+    "phonetic": "backend concept",
+    "meaning": "幂等：同一操作执行多次，结果仍然等同于执行一次",
+    "example": "Retry-safe APIs should make write operations idempotent."
+  },
+  {
+    "word": "race condition",
+    "phonetic": "concurrency bug",
+    "meaning": "竞态条件：结果依赖多个异步操作不可控的完成顺序",
+    "example": "Cancel stale requests to avoid race conditions in UI state."
+  },
+  {
+    "word": "memoization",
+    "phonetic": "optimization",
+    "meaning": "记忆化：缓存函数结果，避免重复计算",
+    "example": "Memoization helps when the same expensive computation repeats."
+  },
+  {
+    "word": "backpressure",
+    "phonetic": "systems concept",
+    "meaning": "背压：下游处理不过来时，让上游减速或排队",
+    "example": "Streams use backpressure to avoid unbounded memory growth."
+  }
+]
