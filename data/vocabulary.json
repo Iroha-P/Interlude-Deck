@@ -1,0 +1,50 @@
+[
+  {
+    "word": "resilient",
+    "phonetic": "/rɪˈzɪliənt/",
+    "meaning": "有韧性的，能恢复的",
+    "example": "A resilient system recovers quickly after a failure."
+  },
+  {
+    "word": "implicit",
+    "phonetic": "/ɪmˈplɪsɪt/",
+    "meaning": "含蓄的，隐式的",
+    "example": "Implicit assumptions can make a feature hard to debug."
+  },
+  {
+    "word": "latency",
+    "phonetic": "/ˈleɪtənsi/",
+    "meaning": "延迟",
+    "example": "Lower latency makes the interaction feel instant."
+  },
+  {
+    "word": "threshold",
+    "phonetic": "/ˈθreʃhoʊld/",
+    "meaning": "阈值，门槛",
+    "example": "The reward unlocks after the learning threshold is reached."
+  },
+  {
+    "word": "compose",
+    "phonetic": "/kəmˈpoʊz/",
+    "meaning": "组合，构成",
+    "example": "Small modules compose into a flexible product."
+  },
+  {
+    "word": "interrupt",
+    "phonetic": "/ˌɪntəˈrʌpt/",
+    "meaning": "打断，中断",
+    "example": "The window should not interrupt active work."
+  },
+  {
+    "word": "retrieve",
+    "phonetic": "/rɪˈtriːv/",
+    "meaning": "取回，检索",
+    "example": "The app can retrieve cards from a local JSON file."
+  },
+  {
+    "word": "friction",
+    "phonetic": "/ˈfrɪkʃən/",
+    "meaning": "阻力，摩擦",
+    "example": "Good defaults reduce friction during short breaks."
+  }
+]
