@@ -41,7 +41,7 @@ function createWindow() {
     minWidth: 330,
     minHeight: 640,
     alwaysOnTop: true,
-    title: "Shanka Waiting Deck",
+    title: "Interlude Deck",
     backgroundColor: "#0f0f10",
     webPreferences: {
       preload: path.join(__dirname, "preload.cjs"),
